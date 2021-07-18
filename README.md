@@ -1,6 +1,9 @@
 # GlobalAsset
 
+# 设计
+![Alt text](design/GlobalAsset.png?raw=true "Title")
 
+# 文档
 - sp > 真实样本数据，以供前段可视化测试
   - info > 存放资产的名称，类型等信息
   - raw > 具体的序列文件，包括日期，价格等
