@@ -1,7 +1,7 @@
 # GlobalAsset
 
 # 设计
-![Alt text](design/GlobalAsset.png)
+![Alt text](design/GlobalAsset.png?raw=True)
 
 # 文档
 - sp > 真实样本数据，以供前段可视化测试
