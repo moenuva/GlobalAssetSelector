@@ -1,7 +1,19 @@
 # GlobalAsset
 
-# 设计
+# 项目背景
+
+
+# 功能需求
+
+
+
+# 页面设计
 ![Alt text](design/GlobalAsset.png?raw=True)
+
+# 数据库设计
+
+
+
 
 # 文档
 - sp > 真实样本数据，以供前段可视化测试
