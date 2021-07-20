@@ -47,4 +47,4 @@
        ```    
  
  # 代码规范：
- 1. 所有.py 文件 indent 默认 2 个 space
+ 1. 所有.py 文件 indent 默认 4 个 space, 可以在pycharm中设置tab = 4 space
