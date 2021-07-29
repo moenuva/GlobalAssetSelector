@@ -48,3 +48,17 @@
  
  # 代码规范：
  1. 所有.py 文件 indent 默认 4 个 space, 可以在pycharm中设置tab = 4 space
+
+ # 指标
+Talib
+
+Overlap Studies 重叠研究
+Momentum Indicators 动量指标
+Volume Indicators 成交量指标
+Volatility Indicators 波动性指标
+Price Transform 价格指标
+Cycle Indicators 周期指标
+Pattern Recognition 形态识别
+Statistic Functions 统计函数
+Math Transform 数学变换
+Math Operators 数学运算符
