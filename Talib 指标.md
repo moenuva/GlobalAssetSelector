@@ -172,6 +172,16 @@
 	- [9.25 SUB - Vector Arithmetic Substraction](#head172)
 	- [9.26 SUM - Summation](#head173)
 
+'''
+安装 
+pip install talib
+
+使用
+import talib
+print(talib.get_functions())
+print(talib.get_function_groups())
+'''
+
 # <span id="head1">1 Overlap Studies Functions 重叠研究指标 </span>
 
 ## <span id="head2">1.1 BBANDS - Bollinger Bands</span>
